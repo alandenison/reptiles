@@ -1,0 +1,22 @@
+
+
+#turtle img{
+  max-height: 300px;
+}
+#snake img{
+  max-height: 300px;
+}
+
+#insect img{
+  max-height: 300px;
+}
+
+#snake {
+  display: none;
+}
+#turtle {
+  display: none;
+}
+#insect {
+  display: none;
+}
